@@ -1,4 +1,4 @@
-@yield ('content')
+
 <!-- Remove the container if you want to extend the Footer to full width. -->
 <div class="container my-5">
   <!-- Footer -->
@@ -134,9 +134,9 @@
          class="text-center p-3"
          style="background-color: rgba(0, 0, 0, 0.2)"
          >
-      © 2020 Copyright:
-      <a class="text-dark" href="https://mdbootstrap.com/"
-         >MDBootstrap.com</a
+      © 2024 Copyright:
+      <a class="text-dark" href="https://appantech.com.np/"
+         >Prashann Raj</a
         >
     </div>
     <!-- Copyright -->
@@ -144,3 +144,4 @@
   <!-- Footer -->
 </div>
 <!-- End of .container -->
+@yield ('content')
